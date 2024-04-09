@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+
+-- COLORES --
+Titulos: #3C3C3B
+Textos y botones: #1D1D1B
+Botones apretados: #BD1818
+Boton hover: #791710 
+Redes: #BB1A1A
